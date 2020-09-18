@@ -34,7 +34,7 @@
 
 类被创建了，接着就可以创建对象了，但是需要怎么来获取有用的对象呢？肯定有某些方式产生某些请求，使对象完成对应的操作，比如完成一笔交易、在屏幕上画画、打开开关等。每个对象都需要满足这些请求，而这些请求都是由接口定义的，而决定接口的就是类型。例如下图的电灯。
 
-![](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200908160712982.png)
+![](https://github.com/Devil-Black/Foundation-java/blob/master/image/image-20200908160712982.png)
 
 ```java
 Light lt = new Light();
@@ -82,7 +82,7 @@ String s = new String("adsad");
 
 这是最快的存储区，是CPU内部用来存放数据的存储区域。
 
-![image-20200915163930583](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200915163930583.png)
+![image-20200915163930583](https://github.com/Devil-Black/Foundation-java/blob/master/image/image-20200915163930583.png)
 
 **（2）堆栈。**
 
