@@ -1,5 +1,3 @@
-
-
 # 1.ECMAScript **简介**
 
 ECMAScript 6.0（以下简称 ES6）是 JavaScript 语言的下一代标准，已经在 2015 年 6 月正式发布了。
