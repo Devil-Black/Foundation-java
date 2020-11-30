@@ -169,7 +169,8 @@ Vue中的声明式渲染,简单理解就是我们声明数据,Vue帮我们将数
 		$(document).ready(function () { 
 			$("#app").append("<h2>Hello Word! !</h2>"); 
 		}); 
-	</script> --> 
+	</script> 
+	--> 
     
     <!-- 在用 Vue中，只需要定义好展示数据，并把它放在 DOM 合适的位置就可以. --> 
     <script src="js/vue.min.js"></script> 
